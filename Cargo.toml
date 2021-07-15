@@ -7,7 +7,7 @@ description = "Extra aws lambda strong structs"
 repository = "https://github.com/klaatu01/aws_lambda_events_extended"
 readme = "README.md"
 license = "MIT"
-keywords = ["aws", "lambda", "dynamodb", "stream", "events", "extended"]
+keywords = ["aws", "lambda", "dynamodb", "stream", "events"]
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
