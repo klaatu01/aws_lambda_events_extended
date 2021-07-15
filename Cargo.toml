@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Charles Ede"]
 edition = "2018"
 description = "Extra aws lambda strong structs"
+repository = "https://github.com/klaatu01/aws_lambda_events_extended"
 readme = "README.md"
 license = "MIT"
 keywords = ["aws", "lambda", "dynamodb", "stream", "events", "extended"]
